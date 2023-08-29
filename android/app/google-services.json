@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160864015838",
+    "project_id": "flutter-tareas-637db",
+    "storage_bucket": "flutter-tareas-637db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160864015838:android:33dae1a2c95d80253b794f",
+        "android_client_info": {
+          "package_name": "com.example.tasks_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160864015838-kcj0tspsa9kgd82rti8qic9aqds7n199.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZLhi_9lkCmo-pCfpPxHsPAJd9l0BNaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160864015838-kcj0tspsa9kgd82rti8qic9aqds7n199.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

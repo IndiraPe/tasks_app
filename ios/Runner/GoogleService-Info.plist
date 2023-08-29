@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>160864015838-7v6j5tadn2nrliruc5vms4nsrclj25c2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.160864015838-7v6j5tadn2nrliruc5vms4nsrclj25c2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCixOT91sWRf6ofCM8X6fJ0_IstAnW6EpU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>160864015838</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tasksApplication</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-tareas-637db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-tareas-637db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:160864015838:ios:29aaeeafaf8ec7963b794f</string>
+</dict>
+</plist>
